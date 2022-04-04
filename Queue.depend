@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1632303584 source:e:\nti\practicse\queue\queue_array.c
+
+1632385842 source:e:\nti\practicse\queue\queue_heap.c
+	"Queue_heap.h"
+
+1632653111 e:\nti\practicse\queue\queue_heap.h
+	<stdio.h>
+	<stdlib.h>
+
+1632385921 source:e:\nti\practicse\queue\main.c
+	"Queue_heap.h"
+
